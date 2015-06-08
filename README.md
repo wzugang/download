@@ -1,2 +1,2 @@
 # download
-sources form google and other site 
+the downloaded resources 
